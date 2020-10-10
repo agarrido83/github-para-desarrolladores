@@ -1,2 +1,2 @@
-alert("EDITADO");
+alert("Cambio");
 console.log("cambios en el archivo")
